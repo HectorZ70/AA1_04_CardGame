@@ -38,3 +38,4 @@
 *.ipch
 *.opendb
 DocumentLayout*.json
+*.vsdix
