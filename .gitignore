@@ -39,3 +39,16 @@
 *.opendb
 DocumentLayout*.json
 *.vsdix
+[Bb]in/
+[Oo]bj/
+x64/
+Debug/
+Release/
+*.log
+*.tlog
+*.idb
+*.pdb
+*.lastbuildstate
+*.unsuccessfulbuild
+*.ilk
+*.vc.db
