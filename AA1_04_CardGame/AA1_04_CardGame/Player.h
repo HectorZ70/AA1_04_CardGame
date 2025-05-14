@@ -1,19 +1,16 @@
 #pragma once
-#include <iostream>
-#include <stack>
 #include "Card.h"
 
-class Player
+class Player 
 {
-private: 
-	std::string v_id;
-	std::stack<Card&> v_hand;
-
+private:
+	int v_ID;
+	std::vector<Card> v_hand;
 public:
 	void InsertCard(Card card);
 	Card GetCard() const;
 	Card GetCard(const Suit& suit);
-	bool operator<<();
+	friend std::ostream& operator<<(std::ostream& os, const Player& player);
 	void SortCards();
 };
 
