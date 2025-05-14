@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|solutionrelative:AA1_04_CardGame\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A31229C6-EB60-4322-9F71-FF726A78F45D}|AA1_04_CardGame\\AA1_04_CardGame.vcxproj|C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_CardGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,58 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Game.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.cpp",
-              "RelativeDocumentMoniker": "AA1_04_CardGame\\Game.cpp",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.cpp",
-              "RelativeToolTip": "AA1_04_CardGame\\Game.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-14T12:27:53.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Game.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.h",
               "RelativeDocumentMoniker": "AA1_04_CardGame\\Game.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Game.h",
               "RelativeToolTip": "AA1_04_CardGame\\Game.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-11T15:56:03.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Card.cpp",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.cpp",
-              "RelativeDocumentMoniker": "AA1_04_CardGame\\Card.cpp",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.cpp",
-              "RelativeToolTip": "AA1_04_CardGame\\Card.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-14T11:46:28.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Card.h",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h",
-              "RelativeDocumentMoniker": "AA1_04_CardGame\\Card.h",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h",
-              "RelativeToolTip": "AA1_04_CardGame\\Card.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-11T15:17:10.99Z",
               "EditorCaption": ""
             },
             {
@@ -100,27 +53,40 @@
               "RelativeDocumentMoniker": "AA1_04_CardGame\\Player.cpp",
               "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Player.cpp",
               "RelativeToolTip": "AA1_04_CardGame\\Player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-14T12:08:53.265Z",
+              "WhenOpened": "2025-05-11T15:52:53.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Player.h",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Player.h",
               "RelativeDocumentMoniker": "AA1_04_CardGame\\Player.h",
               "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Player.h",
               "RelativeToolTip": "AA1_04_CardGame\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-11T15:24:43.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Card.h",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h",
+              "RelativeDocumentMoniker": "AA1_04_CardGame\\Card.h",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\Card.h",
+              "RelativeToolTip": "AA1_04_CardGame\\Card.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-11T15:17:10.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AA1_CardGame.cpp",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_04_CardGame\\AA1_CardGame.cpp",
               "RelativeDocumentMoniker": "AA1_04_CardGame\\AA1_CardGame.cpp",
