@@ -9,7 +9,7 @@ private:
 	std::vector<Card> v_deck;
 	int v_players;
 public:
-	Game();
+	Game(std::vector<Card> newDeck, int newPlayers);
 	Card GetNewCard() const;
 	void DiscardCard(const Card card);
 	void PrintDiscarded() const;
