@@ -1,2 +1,11 @@
-﻿  Game.cpp
-  AA1_04_CardGame.vcxproj -> C:\Users\34657\Documents\AA1_04_CardGame\AA1_04_CardGame\x64\Debug\AA1_04_CardGame.exe
+﻿  AA1_CardGame.cpp
+  Card.cpp
+  Game.cpp
+  Player.cpp
+C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(46,58): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(46,58): warning C4267:         with
+C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(46,58): warning C4267:         [
+C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(46,58): warning C4267:             _Ty=int
+C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(46,58): warning C4267:         ]
+  Generando código...
+  AA1_04_CardGame.vcxproj -> C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\x64\Debug\AA1_04_CardGame.exe
