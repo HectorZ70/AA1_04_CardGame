@@ -15,3 +15,5 @@ public:
 	Card(Suit newSuit, int newValue);
 	bool operator==(const Card& other) const;
 };
+
+std::ostream& operator<<(std::ostream& os, const Card& card);

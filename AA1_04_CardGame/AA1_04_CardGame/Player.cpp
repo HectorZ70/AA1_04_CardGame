@@ -1,5 +1,20 @@
 #include "Player.h"
 
+Player::Player() : v_ID(0), v_name("Unknown") {}
+
+Player::Player(int id, const std::string& name)
+    : v_ID(id), v_name(name) {
+}
+
+std::ostream& operator<<(std::ostream& os, const Player& player)
+{
+    os << "Player ID: " << player.v_ID << ", Name: " << player.v_name << "\nHand: ";
+    for (const auto& card : player.v_hand) {
+        os << card << " ";
+    }
+    return os;
+}
+
 void Player::InsertCard(Card card) {
     auto suitOrder = [](const Suit& s) {
         switch (s) {
@@ -64,16 +79,6 @@ std::ostream& operator<<(std::ostream& os, const Card& card)
     default: suitStr = "UNKNOWN"; break;
     }
     os << "(" << suitStr << ", " << card.v_value << ")";
-    return os;
-}
-
-
-std::ostream& operator<<(std::ostream& os, const Player& player) 
-{
-    os << "Player ID: " << player.v_ID << "\nHand: ";
-    for (const auto& card : player.v_hand) {
-        os << card << " ";
-    }
     return os;
 }
 

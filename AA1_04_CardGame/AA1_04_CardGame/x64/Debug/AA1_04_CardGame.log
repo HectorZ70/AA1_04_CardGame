@@ -1,8 +1,2 @@
-﻿  Card.cpp
-  Game.cpp
-  Player.cpp
-  Generando código...
-C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(35,1): error C4716: 'Player::GetCard': debe devolver un valor
-C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(30,1): error C4716: 'Player::GetCard': debe devolver un valor
-C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Player.cpp(40,1): error C4716: 'operator<<': debe devolver un valor
-C:\Users\PC\Desktop\AA1_04_CardGame\AA1_04_CardGame\AA1_04_CardGame\Game.cpp(12,1): error C4716: 'Game::GetNewCard': debe devolver un valor
+﻿  Game.cpp
+  AA1_04_CardGame.vcxproj -> C:\Users\34657\Documents\AA1_04_CardGame\AA1_04_CardGame\x64\Debug\AA1_04_CardGame.exe
